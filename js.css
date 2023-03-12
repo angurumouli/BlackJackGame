@@ -1,0 +1,54 @@
+/* /* body{
+    text-align: center;
+} */
+#apple-el{
+    height: 20px;
+    width: 200px;
+    background-color: rgb(231, 7, 37);
+    opacity: 0.5;
+    border-radius: 5%;
+    
+}
+#banana-el{
+    height: 20px;
+    width: 200px;
+    opacity: 0.5;
+    border-radius: 5%;
+    background-color: rgb(231, 209, 7);
+}
+#input-el{
+    height: 40px;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-sizing: border-box;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    border: 2px solid #5f9341;
+}
+#input-btn{
+    height: 40px;
+    width: 100px;
+    margin-top: 5px;
+    background-color: #5f9341;
+    font-weight: bold;
+    color: antiquewhite;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+
+#box{
+    cursor:pointer;
+    background:lightseagreen;
+    padding:40px;
+    width:200px;
+    margin:20px auto;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+} 

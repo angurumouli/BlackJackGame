@@ -1,0 +1,47 @@
+body{
+    font-family: 'Trebuchet MS';
+    /* background-color: rgb(3, 114, 3); */
+    text-align: center;
+    opacity: 50%;
+    background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0NDQ0NDQ8NDQ0NDQ0NDQ0NDQ8NDQ0NFREWFhURFRUYHSggGBolJxUVITEhJSkrMjAuFx8zODMsNygwOjcBCgoKDQ0NFQ8PFysZFR0rKysrLS0rKy0tKysrLSstKystLS0tLS0rLSsrLS0tKysrKy0rLS0rLS0rKysrKysrK//AABEIAK4BIgMBIgACEQEDEQH/xAAZAAEBAQEBAQAAAAAAAAAAAAADBAIBAAf/xAArEAADAAEEAQMDAwUBAAAAAAAAAQIRAxIhMUFRYXGBkdGhscFSwuHw8TL/xAAYAQEBAQEBAAAAAAAAAAAAAAADAgEABP/EABoRAQEBAQEBAQAAAAAAAAAAAAABAhESMSH/2gAMAwEAAhEDEQA/APiaNI4jSJHXUaRxI2kYitSjcoykIkTUWupCSjkoWUTRWuyhJRyULMkWi1XZkWZPTIsyRaHWnFIik1MiTJNorphSbUiKTSgno7oak7tF2ndhnU+g7Tjko2nNp3Xek7kw5KXJhyb1U0mqQ6kqqQ6kqVc0lqQqkqqQqkqUudJaQdIoqQqkuU2anpBtFFIKkXDSgpGGhmg2iiSiaMMVow0VCQbMs2zLNXGTp48c1pI0jiNJHIrSRtI4kbSJqLWpRuUclCyiaO12ULKOShoki0Oq7MjTJyJGiSLQ6r0yNMnokeZDtBrTMyLMGpgWYItDrTEwbUCKBFBPR3Qdh3YPsO7DOo9J9hxwU7Djg7rvSZwYqCpwYcG9VNJKgKoLKgKoKlLNI6kKpLLkGpLlLnSOpBuSy5AuS5T50lpA2iq5BpCSnzU1IOkUUgqRULmhpB0hqRhoqFlEzDQjMstcYPHcHjmtI3KOI3KMqa0kblHJQkokdrUoWUZhDSiKHValDRJmJHhEWh1WokeJORI8SHa8+tOxI0QeiR4kO159aemBZk1EizJFoNaYmBFAkwbUE2juhKDuwdQd2mdR6BsMuCnaccHdd6SuDFQVuDDg6VU0jqAqgsqQqkuUudIrgG5LbkC5KlNnSK5AuS25J7kSV6M6R3IFSWWgLQkr0ZqWkDSKaQNISHzQUg2hqQdIosoaRhitGGioSMHjp41TaRtIyjaMqK3KElGJFlEUVJKGhByhoRNDqlhDwg4RRCCoNUmnJREh6aKNOQ6826TTkeJMRJREh2vNqtRIsyeiRpki0GtOTIik1MiKSRWsKTu0RSa2mJ9B2HHI+045Od6TuQ6kqch1JqpUtSDUldSFclSlzpHcgXJZaAuS5T5qK5J7RZqIn1EJHoxUdyBaK7RPaEj0ZqS0DSKbQFoSV6M1PSDpDWgqLh8iaDaFowyoWDwdPYOlNak3JhCSSmtyNAUDQTRaLCH00DCHgOg0aEUQgdMogOvPs+minTQGmU6aDry7p4Q8ILTRRAVefVJCGlGIQ0IivPqtShEjkoRIwVryk7tNJHcGI6xtOORcGWjndE5DpFS0m/1xw239gdScP8dMokln6mpBWim0BaOJmprRPaKtRAWi4fNSaiJtRFeoibUEj0YqW0TWiuyaxI9WE1onspsnsXL0ZBQVDUDRcPkVGGIw2WWMHjx45bUiSHIknIpIHkCBoJotGgogngogPQNKNMogn0yiA68+1OmU6ZNplOmFXm2p0yrTnzjjDf2Tf8EuljKz1lZ+Cyc5xlcp8Lt001n4579CHnsKp5aXhv8AcWEYVdtf1U0/rP5f3G0msL+cd8578/8An7E8DctSuff08iJGY79sYWHnjKz17ZEnz114xzw/T4J4K5dmX/vk1g94+n9qZp+fZtfRNHcTcMpHHP8Azr1/BrpfHw+ePwzjfHj5fy8/ujOMmY82msPPC9M5XLT792Dqt0849f3b/kV9vvx32H/T7tL6ZKJ9gLlrtA1LZQ+n8L9YbYTaxzjrHOPr39fujZCZyk1ET2U6ueX6cP2xwTWbCZibUJtQp1CbULj0ZTahPqFGoT6gserCeyeyiyexY9OQ0DQ1A0XDZFRhm6MMs0ZwcPZPHLdQkho3JyaWBoAkWGTRaPBRpk0MfTZGgairTZRBLDKIYVefUV6bKNNkmmynTYdebcVwymKeMZePTPBHDKIYdebSuK8foNFNdNr44JYY0sig0pVN+WxFT8t/cnmhEzBWHVe/XXPR3d/kFM1kxBHTfeX8vJzdjptfDMZONmOddGKZ50HVGqkcqnzy+e/cKra6bXw8HaYVs2FyPUZPbFtk9suHyLUZNqMbUZNqMSPTiBsntjWye2LHpxA2yexrYFsTL0ZFQNC0waEh8sMNm6DZRozk8ePHKdRtBJiJm1lLIssCWJLJo6ohjwyaWNDIoNRVDKIZJDHhh0GoshlGmyKKKIoKx5txbpsohkUUPFB2PPrKyKGmiSKGmiLAayqmhFRLNiKiRXKlUd3AKzu85Hk2446C3nHZjvJHQdUZdB1RqplqqBuj1WDVFSFzly6AujV0BdFyHzli2T2zd0T3QkejMYtk9sS2T3QkenMYtgWzdsGmJHozGKYVG6YVMuGyzQbNNmGyoWOHjmTxSnEJLCTNpnV1KmJLBliSyR2HhjSyaWLLIotRVFDxRJLGiiLAaiyKHiiOKHig7Aaysih4oiihooOx59ZXRQs2RRY02RYDWVc0IrJJs2rJsFcqlZreTKzu8zifKjecdgbzm87jvJnYdUG7MVZvFTLdWFVmasKrKkLnLt0BdHroC6LkNnL10BdHboC6EkejOXLontm7oC2XIfMZtg0zdMGmJD5jNMOmaphtlFkcYbZqmYZcLHjxk8c15GkYRpGtsImImCmImTUWFTFlgSxJZNFYoliyyaaFmibBaiqKHiiOWNFB2B1lZNDTRHNCzRFgNZWTYs2RzQs2RYG5VqzaslVm1ZHBXKpWd3kys7vM4nyo3nHYG847O47yZ2YdhOzDs3ipklWFVmasKqLkLMtVQN0cqwqoqQucvXQN0dqgaYkh85cpg1R2qCplyGzHKYVM1TDplw0jLZhs7TMUyoSRxsyzzMspcjxw8eOa4jSMo0jm1tGkzCNIxFKjcsKTaJqLDSxJYKYksmjsPLFlk8sWWTYKxRNCzRNLFlkWB1lTNCTRNNCJkWCsUqjaomVG1RPB3J1Z3eCqO7jOJ8l3nt4W45uO47yR0YdGHRl0bxsy06DqjjoOqKkJI7VBVR6mFTKkLnLlUFTNUwqZchpGaYdM7TMMuFkZbDZqmYookjLZhmmYZUJHGZZ1mWauPHjh45r/2Q==");
+    background-size: cover;
+    font-weight: bold;
+}
+#head{
+    font-size: 60px;
+    font-weight: bold;
+    color: orangered;
+}
+
+p{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 550;
+}
+
+#head:hover{
+    color: red; 
+}
+
+#message-el{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 550;
+    font-style: italic;
+    font-weight: bold;
+}
+.btns{
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    color: #016f32;
+    background-color: orangered ;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 4px;
+}
+/* #message-el:hover{
+    color: black;
+} */
